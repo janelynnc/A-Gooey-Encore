@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.assignment6.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\tkwan\\Desktop\\CMPM-121\\Assignment6\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Assignment6 [Testing]"
+        }
+      }
+    }
+  ]
+}
